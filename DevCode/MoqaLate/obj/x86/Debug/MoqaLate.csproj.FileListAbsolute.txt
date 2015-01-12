@@ -1,0 +1,9 @@
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\MoqaLate.exe.config
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\MoqaLate.exe
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\MoqaLate.pdb
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\Ninject.dll
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\Ninject.pdb
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\bin\Debug\Ninject.xml
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\obj\x86\Debug\MoqaLate.csprojResolveAssemblyReference.cache
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\obj\x86\Debug\MoqaLate.exe
+C:\Development\Windows\moqalate_41f15df83a96\src\DevCode\MoqaLate\obj\x86\Debug\MoqaLate.pdb

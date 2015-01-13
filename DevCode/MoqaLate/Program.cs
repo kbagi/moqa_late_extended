@@ -20,6 +20,8 @@ namespace MoqaLate
                 var sourceDir = "C:\\Development\\Windows\\EIM_moqa\\varna_windows\\EIM\\EIM.Shared";
                 var destinationDir = "C:\\Development\\Windows\\EIM_moqa\\varna_windows\\EIMWindowsUnitTests\\MoqaLateGeneratedMocks";
 
+
+
                 logger.Write("Source dir = " + sourceDir);
                 logger.Write("Destination dir = " + destinationDir);
 

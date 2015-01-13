@@ -30,9 +30,9 @@ namespace MoqaLate.IO
 
             if (File.Exists(thisAssemblyPath + @"\MoqaLateExcludedFiles.txt"))
             {
-                
+                return File.ReadAllLines(thisAssemblyPath + @"\MoqaLateExcludedFiles.txt");
             }
-            return File.ReadAllLines(thisAssemblyPath + @"\MoqaLateExcludedFiles.txt");
+            return new string[] { };
         }
     }
 }

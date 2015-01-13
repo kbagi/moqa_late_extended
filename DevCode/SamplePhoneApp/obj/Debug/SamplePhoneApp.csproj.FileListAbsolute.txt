@@ -1,0 +1,13 @@
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\ApplicationIcon.png
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\Background.png
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\SamplePhoneApp.dll
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\SamplePhoneApp.pdb
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\AppManifest.xaml
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\SamplePhoneApp_Debug_AnyCPU.xap
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\App.g.cs
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\MainPage.g.cs
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\SamplePhoneApp.g.resources
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\SamplePhoneApp.dll
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\SamplePhoneApp.pdb
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\XapCacheFile.xml

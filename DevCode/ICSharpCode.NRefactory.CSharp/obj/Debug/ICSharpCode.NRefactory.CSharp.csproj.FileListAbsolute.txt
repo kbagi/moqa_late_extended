@@ -1,0 +1,9 @@
+C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.CSharp.pdb
+C:\Development\Windows\NRefactory-master\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.csprojResolveAssemblyReference.cache
+C:\Development\Windows\NRefactory-master\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.dll
+C:\Development\Windows\NRefactory-master\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.pdb
+C:\Development\Windows\moqalate2\DevCode\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.csprojResolveAssemblyReference.cache
+C:\Development\Windows\moqalate2\DevCode\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.dll
+C:\Development\Windows\moqalate2\DevCode\ICSharpCode.NRefactory.CSharp\obj\Debug\ICSharpCode.NRefactory.CSharp.pdb

@@ -1,0 +1,16 @@
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\ApplicationIcon.png
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\Background.png
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\SamplePhoneApp.Tests.dll
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\SamplePhoneApp.Tests.pdb
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\AppManifest.xaml
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\Properties\WMAppManifest.xml
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\SamplePhoneApp.Tests_Debug_AnyCPU.xap
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\SamplePhoneApp.dll
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\Bin\Debug\SamplePhoneApp.pdb
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\SamplePhoneApp.Tests.csprojResolveAssemblyReference.cache
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\App.g.cs
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\MainPage.g.cs
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\SamplePhoneApp.Tests.g.resources
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\SamplePhoneApp.Tests.dll
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\SamplePhoneApp.Tests.pdb
+C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp.Tests\obj\Debug\XapCacheFile.xml

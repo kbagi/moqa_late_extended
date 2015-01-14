@@ -1,6 +1,0 @@
-C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.xml
-C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.dll
-C:\Development\Windows\NRefactory-master\bin\Debug\ICSharpCode.NRefactory.pdb
-C:\Development\Windows\NRefactory-master\ICSharpCode.NRefactory\obj\Debug\ICSharpCode.NRefactory.dll
-C:\Development\Windows\NRefactory-master\ICSharpCode.NRefactory\obj\Debug\ICSharpCode.NRefactory.pdb
-C:\Development\Windows\moqalate2\DevCode\ICSharpCode.NRefactory\obj\Debug\ICSharpCode.NRefactory.dll

@@ -1,8 +1,0 @@
-﻿<xapCache source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\SamplePhoneApp_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="13/01/2015 20:23:00">
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\obj\Debug\SamplePhoneApp.dll" archivePath="SamplePhoneApp.dll" lastWriteTime="13/01/2015 20:22:59" />
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="25/04/2013 08:57:10" />
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="13/01/2015 20:23:00" />
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="25/04/2013 08:57:10" />
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="25/04/2013 08:57:10" />
-  <file source="C:\Development\Windows\moqalate2\DevCode\SamplePhoneApp\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="13/01/2015 20:23:00" />
-</xapCache>

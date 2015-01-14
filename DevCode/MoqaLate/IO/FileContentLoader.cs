@@ -23,6 +23,13 @@ namespace MoqaLate.IO
             return File.ReadAllLines(filePath).ToList<string>();
         }
 
+        public string LoadFileAsString(string filePath)
+        {
+            _logger.Write(string.Format("Loading file '{0}'", filePath));
+
+            return File.ReadAllText(filePath);
+        }
+
         #endregion
     }
 }

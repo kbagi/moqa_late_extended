@@ -34,9 +34,9 @@ namespace MoqaLate
             foreach (var fileName in fileNames)
             {
                 Debug.WriteLine(fileName);
-                var codeLines = _loader.LoadFilesLines(fileName);
+                var code = _loader.LoadFileAsString(fileName);
 
-                var mockClassSpec = _lineTextParser.GenerateClass(codeLines);
+                var mockClassSpec = _lineTextParser.GenerateClass(code);
 
                 if (mockClassSpec.IsValid && mockClassSpec.IsPublic)
                 {

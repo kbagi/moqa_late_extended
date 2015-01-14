@@ -5,6 +5,6 @@ namespace MoqaLate.InterfaceTextParsing
 {
     public interface IInterfaceLineTextParser
     {
-        ClassSpecification GenerateClass(List<string> linesOfInterfaceCode);
+        ClassSpecification GenerateClass(string interfaceCode);        
     }
 }
